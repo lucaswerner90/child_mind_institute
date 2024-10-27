@@ -1,0 +1,9 @@
+tensorflow
+matplotlib
+numpy
+pandas
+kaggle
+mlflow
+scikit-learn
+notebook
+jupyterlab
