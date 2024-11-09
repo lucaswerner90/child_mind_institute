@@ -31,8 +31,5 @@ jupyter:
 lint:
 	@$(VENV)/bin/flake8 .
 
-format:
-	@$(VENV)/bin/black .
-
 test:
 	@$(VENV)/bin/pytest
