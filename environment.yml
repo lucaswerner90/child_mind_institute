@@ -1,0 +1,4 @@
+name: child_mind_institute
+channels:
+  - defaults
+prefix: /opt/anaconda3/envs/child_mind_institute

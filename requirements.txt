@@ -7,4 +7,4 @@ mlflow
 scikit-learn
 notebook
 jupyterlab
-black==24.10.0
+tfx
