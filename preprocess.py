@@ -3,7 +3,7 @@
 
 import tensorflow as tf
 import pandas as pd
-from sklearrn.impute import KNNImputer
+from sklearn.impute import KNNImputer
 from typing import tuple
 
 # These columns come from EDA step of the project. 
